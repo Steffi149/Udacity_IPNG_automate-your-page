@@ -1,0 +1,45 @@
+h1 {
+  color: white;
+  font-family: Arial, Cambria, sans-serif;
+  padding: 20px;
+}
+
+body {
+  background-color: black;
+  margin: 15px auto;
+  max-width: 1880px;
+  padding: 0;
+}
+
+h2 {
+  background-color: gray;
+  font-family: Helvetica;
+  padding: 5px;
+}
+
+h3 {
+  background-color: #D8D8D8;
+  font-family: Helvetica;
+  width: 550px;
+}
+
+.concept {
+  background-color: white;
+}
+
+.extra {
+  background-color: #CCCCFF;
+  width: 550px;
+  padding: 10px;
+  float: right;
+  border: 3px dashed #CCC;
+  border-radius: 34px;
+  margin-right: 20px;
+}
+
+.linkedImage {
+  float: right;
+  width: 300px;
+  height: 200px;
+  margin-right: 300px;
+}
